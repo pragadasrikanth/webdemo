@@ -11,7 +11,7 @@
 </head>
 <body>
 
-  <h1> <s:property value="message" />  </h1>
+  <h1> Today is <s:property value="message" />  </h1>
   
 
 </body>

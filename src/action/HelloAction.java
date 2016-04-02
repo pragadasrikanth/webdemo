@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class HelloAction {
 
-	private String message;
+	private String message; 
 	  
     public  String execute() {
 		  message = new Date().toString();
